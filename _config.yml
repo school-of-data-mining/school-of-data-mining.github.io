@@ -1,0 +1,15 @@
+# Site settings
+title: School of Datamining
+header-img: img/home-bg.jpg
+description: "The place to start and improve knowledege about Datamining"
+baseurl: ""
+url: "http://school-of-datamining.com"
+twitter_username: SchoolOfDMining
+github_username:  school-of-datamining
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
