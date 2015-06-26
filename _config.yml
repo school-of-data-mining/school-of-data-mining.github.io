@@ -5,7 +5,7 @@ description: "The place to start and improve your knowledge about datamining"
 baseurl: ""
 url: "http://school-of-datamining.com"
 twitter_username: SchoolOfDMining
-github_username:  school-of-datamining
+github_username:  school-of-data-mining
 
 # Build settings
 markdown: kramdown
