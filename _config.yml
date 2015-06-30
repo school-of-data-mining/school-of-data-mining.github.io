@@ -1,9 +1,9 @@
 # Site settings
-title: School of Datamining
+title: School of Data Mining
 header-img: img/home-bg.jpg
-description: "The place to start and improve your knowledge about datamining"
+description: "The place to start and improve your knowledge about data mining"
 baseurl: ""
-url: "http://school-of-datamining.com"
+url: "http://school-of-data-mining.com"
 twitter_username: SchoolOfDMining
 github_username:  school-of-data-mining
 
